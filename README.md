@@ -1,2 +1,6 @@
-# infinite_domain
-Special Network Agent
+# InfiniteDomain
+
+Special Network Agent (Browser-based forward proxy)
+
+
+ 
